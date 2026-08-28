@@ -1,6 +1,6 @@
 ### Hi there <a href="https://github.com/HOBAX"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm **Ehab Alshathili** (أبو عبدالله) — a Computer Science Student at Taibah University 🎓 passionate about building efficient software, solving problems, and exploring technology.
+I'm **Ehab Alshathili**  — a Computer Science Student at Taibah University 🎓 passionate about building efficient software, solving problems, and exploring technology.
 
 - 🔭 I’m currently working on building core software projects and honing my problem-solving skills.
 - 🌱 I’m currently expanding my knowledge in Data Structures, Algorithms, and Object-Oriented Design.
@@ -34,7 +34,7 @@ I'm **Ehab Alshathili** (أبو عبدالله) — a Computer Science Student a
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Ehab's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hobax0&show_icons=true&theme=radium" alt="Ehab's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" />
 </p>
