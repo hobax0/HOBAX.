@@ -36,10 +36,9 @@ I'm **Ehab Alshathili** — a Computer Science Student at Taibah University 🎓
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hobax0&show_icons=true&theme=radium" alt="Ehab's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobax0&layout=compact&theme=radium" alt="Top Languages" />
-</p>
+🔗 **Connect with me**
+
+| LinkedIn | GitHub |
+| :---: | :---: |
+| <a href="https://www.linkedin.com/in/ehab-alshathili-2a1949275"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> | <a href="https://github.com/hobax0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40"></a> |
