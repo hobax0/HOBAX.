@@ -1,44 +1,49 @@
-### Hi there <a href="https://github.com/hobax0"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<div align="center">
 
-I'm **Ehab Alshathili** — a Computer Science Student at Taibah University 🎓 passionate about building efficient software, solving problems, and exploring core computer science technologies.
+  <h1>👋 Hi, I'm Ehab Alshathili</h1>
+  <h3>Computer Science Student @ Taibah University 🎓</h3>
 
-- 🔭 I’m currently working on building core software projects and honing my problem-solving skills.
-- 🌱 I’m currently expanding my knowledge in Data Structures, Algorithms, and Object-Oriented Design.
-- 💬 Ask me about anything related to **C++** or **Java**.
-- ⚡ Fun fact: I enjoy competitive gaming and exploring tech solutions!
+  <p>
+    <a href="https://www.linkedin.com/in/ehab-alshathili-2a1949275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/hobax0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+  <p>Passionate about low-level software engineering, algorithms, and building efficient solutions.</p>
+
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 About Me
+
+- 🔭 **Focus**: Computer Science Fundamentals & Software Engineering
+- 🌱 **Learning**: Advanced Data Structures, Algorithms, & Systems Architecture
+- 💬 **Ask me about**: **C++**, **Java**, and Logic Design
+- ⚡ **Fun Fact**: Gamer & tech customization enthusiast!
+
+---
+
+### 💻 Tech Stack
 
 <p align="left">
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/> 
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
-  </a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
+### 📈 GitHub Stats
 
-🔗 **Connect with me**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hobax0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobax0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-| LinkedIn | GitHub |
-| :---: | :---: |
-| <a href="https://www.linkedin.com/in/ehab-alshathili-2a1949275"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> | <a href="https://github.com/hobax0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40"></a> |
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hobax0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
